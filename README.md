@@ -1,5 +1,10 @@
 # notes_app
 
+A styled website for creating notes
+try it out here!
+
+https://seanemmers.github.io/notes_app/public/index.html
+
 ## User Stories
 ```
 As a programmer
