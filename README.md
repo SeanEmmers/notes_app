@@ -1,9 +1,8 @@
 # notes_app
 
-A styled website for creating notes
-try it out here!
+A styled website for creating notes <br/>
 
-https://seanemmers.github.io/notes_app/public/index.html
+[Try it out here!](https://seanemmers.github.io/notes_app/public/index.html)
 
 ## User Stories
 ```
